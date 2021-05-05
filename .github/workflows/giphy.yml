@@ -1,0 +1,6 @@
+name: GIPHY generator
+
+on:
+  issues:
+    types:
+  
